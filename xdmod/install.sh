@@ -43,7 +43,7 @@ dnf install -y \
 # be installed in the same container.  In a production deployment they may be installed
 # on separate hosts.
 #------------------------
-dnf install -y https://github.com/ubccr/xdmod/releases/download/v10.0.2-2-el8/xdmod-10.0.2-2.0.el8.noarch.rpm \
+dnf install -y https://github.com/ubccr/xdmod/releases/download/v10.5.0-1.0/xdmod-10.5.0-1.0.el8.noarch.rpm \
                https://github.com/ubccr/xdmod-ondemand/releases/download/v10.0.0/xdmod-ondemand-10.0.0-1.0.beta1.el8.noarch.rpm \
                https://github.com/ubccr/xdmod-supremm/releases/download/v10.0.1-rc.1/xdmod-supremm-10.0.1-1.0.rc01.el8.noarch.rpm
 
